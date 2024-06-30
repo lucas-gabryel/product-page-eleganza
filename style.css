@@ -1,3 +1,15 @@
 * {
-    
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
+
+:root {
+    font-size: 62.5%;
+
+    --bg-primary-color: #0B1121;
+    --bg-secondary-color: #1B1F2B;
+    --text-color: #ffffff;
+    --focus-color: #72151E;
+}
+
